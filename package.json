@@ -1,7 +1,7 @@
 {
-  "name": "tslint-config-airbnb-base",
-  "version": "0.2.0",
-  "description": "Airbnb's base TSLint config, following Airbnb's styleguide",
+  "name": "tslint-config-chartiq-base",
+  "version": "0.1.0",
+  "description": "ChartIQ's base TSLint config, following ChartIQ's styleguide",
   "main": "index.js",
   "eslintConfig": {
     "extends": "airbnb-base",
@@ -31,7 +31,9 @@
   "devDependencies": {
     "eslint": "^4.6.1",
     "eslint-config-airbnb-base": "^12.0.0",
-    "eslint-plugin-import": "^2.7.0"
+    "eslint-plugin-import": "^2.7.0",
+    "tslint": "^5.11.0",
+    "typescript": "^3.2.2"
   },
   "dependencies": {
     "tslint-consistent-codestyle": "^1.13.2",
