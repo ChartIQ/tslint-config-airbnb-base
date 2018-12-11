@@ -1,5 +1,5 @@
 {
-  "name": "tslint-config-chartiq-base",
+  "name": "@chartiq/tslint-config-chartiq-base",
   "version": "0.1.0",
   "description": "ChartIQ's base TSLint config, following ChartIQ's styleguide",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nelsyeung/tslint-config-airbnb-base.git"
+    "url": "git+https://github.com/chartiq/tslint-config-airbnb-base.git"
   },
   "keywords": [
     "airbnb",
@@ -25,9 +25,9 @@
   "author": "Nelson Yeung (http://nelsyeung.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nelsyeung/tslint-config-airbnb-base/issues"
+    "url": "https://github.com/chartiq/tslint-config-airbnb-base/issues"
   },
-  "homepage": "https://github.com/nelsyeung/tslint-config-airbnb-base#readme",
+  "homepage": "https://github.com/chartiq/tslint-config-airbnb-base#readme",
   "devDependencies": {
     "eslint": "^4.6.1",
     "eslint-config-airbnb-base": "^12.0.0",
