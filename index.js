@@ -10,5 +10,9 @@ module.exports = {
     './rules/variables',
     './rules/es6',
     // './rules/imports',
-  ].map(require.resolve))
+  ].map(require.resolve)),
+  "rules": {
+    "indent": [2, "tab"],
+    "no-tabs": 0,
+  },
 };
