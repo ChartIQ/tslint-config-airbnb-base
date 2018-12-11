@@ -1,6 +1,6 @@
 {
   "name": "@chartiq/tslint-config-chartiq-base",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ChartIQ's base TSLint config, following ChartIQ's styleguide",
   "main": "index.js",
   "eslintConfig": {
