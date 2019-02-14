@@ -9,12 +9,5 @@ module.exports = {
     './rules/style',
     './rules/variables',
     './rules/es6'
-    // './rules/imports',
-  ].map(require.resolve)),
-  rules: {
-    "ter-indent": [2, "tab"],
-    "indent": [2, "tab"],
-    "no-tabs": 0,
-    "linebreak-style": 0
-  },
-};
+   ].map(require.resolve))
+  }
