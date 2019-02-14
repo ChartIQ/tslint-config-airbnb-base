@@ -8,11 +8,13 @@ module.exports = {
     './rules/node',
     './rules/style',
     './rules/variables',
-    './rules/es6',
+    './rules/es6'
     // './rules/imports',
   ].map(require.resolve)),
-  "rules": {
+  rules: {
+    "ter-indent": [2, "tab"],
     "indent": [2, "tab"],
     "no-tabs": 0,
+    "linebreak-style": 0
   },
 };
