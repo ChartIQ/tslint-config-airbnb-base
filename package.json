@@ -22,7 +22,7 @@
     "tslintconfig",
     "typescript"
   ],
-  "license": "MIT",
+  "license": "apache-2.0",
   "bugs": {
     "url": "https://github.com/chartiq/tslint-config-chartiq-base/issues"
   },
